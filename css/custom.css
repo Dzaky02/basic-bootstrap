@@ -10,3 +10,15 @@
     background: rgb(219, 133, 4);
     border: 0;
 }
+
+.herobwa h1 {
+    font-family: 'Poppins';
+    font-weight: 700;
+    color: #2F281E;
+}
+
+.herobwa p {
+    font-family: 'Poppins';
+    font-weight: 400;
+    color: #2F281E;
+}
